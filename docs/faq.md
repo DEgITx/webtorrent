@@ -112,6 +112,7 @@ WebTorrent is still pretty new, but it's already being used in cool ways:
 - **[Bugout][Bugout]** - build and run back-end web services in a browser tab.
 - **[P2P Media Loader][p2p-media-loader]** - engine for Hls.js and Shaka Player that enables P2P sharing of live and VOD streams over HLS or DASH protocols.
 - **[Cheff][Cheff]** - Share food recipes between your devices. [source code](https://github.com/vasco3/cheff)
+- **[Rats Search][rats-search]** - BitTorrent P2P multi-platform search engine for Desktop and Web servers ([source code][rats-search])
 - ***Your app here – [Send a pull request][pr] with your URL!***
 
 #### WebTorrent Product Alternatives
@@ -199,6 +200,7 @@ There's also a list of WebTorrent-powered alternatives to centralized services h
 [Bugout]: https://github.com/chr15m/bugout
 [p2p-media-loader]: https://github.com/novage/p2p-media-loader
 [Cheff]: https://cheff.cuadranteweb.com
+[rats-search]: https://github.com/DEgITx/rats-search
 
 ## How does WebTorrent work?
 
